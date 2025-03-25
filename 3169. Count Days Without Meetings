@@ -1,4 +1,6 @@
 // LeetCode Problem :- 3169. Count Days Without Meetings
+// Time Complexity :- O(nlogn)
+// Space Complexity :- O(1)
 
 class Solution {
     public int countDays(int days, int[][] meetings) {
